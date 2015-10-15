@@ -1,0 +1,22 @@
+img{
+	height: 250px;
+	width:240px;
+	opacity:.7;
+	padding:60px;
+	}
+h1{
+	font-family:verdana;
+	color:purple; 
+}
+hr{
+	height:5px;
+	width:20%;
+	background-color:gray;
+	margin-left:4px; 
+}
+.letra{
+	position:absolute;
+	color:yellow;
+	font-size:15px;
+	font-family:arial;
+}
